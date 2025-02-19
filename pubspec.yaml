@@ -47,6 +47,13 @@ dependencies:
   cached_network_image: ^3.4.1
   image_card: ^0.0.4
   flutter_swipe_action_cell: ^3.1.5
+  #jab product ko admin se add karwayenge to ye sab dependency lgana padta hai
+  image_picker:
+  device_info_plus:
+  intl:
+  permission_handler:
+  app_settings:
+  firebase_storage:
 
 dev_dependencies:
   flutter_test:
