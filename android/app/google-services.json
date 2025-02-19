@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449000467635",
+    "project_id": "gupta-restaurant-66c89",
+    "storage_bucket": "gupta-restaurant-66c89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449000467635:android:7e8a5a90229a0c5f3c94c6",
+        "android_client_info": {
+          "package_name": "com.example.guptaresturent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSFw06kJ98o3e0ZEj4uDvU6k6JuBnCRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
